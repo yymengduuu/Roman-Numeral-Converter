@@ -81,8 +81,8 @@ h1 {
   text-align: center;
 }
 
-#result {
-  display: flex;
+#output {
+  display: inline-block;
   align-items: center;
   justify-content: center;
   font-size: 2rem;
