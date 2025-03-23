@@ -93,4 +93,5 @@ h1 {
   border-radius: 2px;
   background-color: var(--mid-blue);
   color: #fff;
+  width: clamp(320px, 50vw, 460px);
 }
